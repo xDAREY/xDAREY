@@ -6,4 +6,4 @@
 - 🤔 I’m looking for internship or a job.
 - 📫 How to reach me: my twitter link is in my bio.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: plan on buying my country 😄.
+- ⚡ Fun fact:
