@@ -6,4 +6,5 @@
 - 🤔 I am looking for internship or a job.
 - 📫 How to reach me: my twitter link is in my bio.
 - 😄 Pronouns: he/him.
-- ⚡ Fun facts: i prefer RL to CL, Compile tree is one of my best android studio feature. 
+- ⚡ Fun facts: i prefer RL to CL, Compile tree is one of my best android studio feature to 
+ be added. 
