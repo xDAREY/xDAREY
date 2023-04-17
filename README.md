@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my github profile 👋
 
 - 🔭 I am currently working with a start-up company named Flex.
 - 🌱 I am currently learning and using java as my software development language.
