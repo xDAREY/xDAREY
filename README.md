@@ -6,4 +6,4 @@
 - 🤔 I am looking for internship or a job.
 - 📫 How to reach me: my twitter link is in my bio.
 - 😄 Pronouns: he/him.
-- ⚡ Fun facts: i prefer RL to CL.  
+- ⚡ Fun facts: i prefer RL to CL in android dev.  
