@@ -9,7 +9,7 @@
 
 - 🌱 I have worked with **Java, XML and other frameworks**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android development**
 
 - 📫 How to reach me **oluwadare.emmanuel15@gmail.com**
 
