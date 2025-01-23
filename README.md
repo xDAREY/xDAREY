@@ -9,9 +9,9 @@
 
 * I have been in the Mobile developing space for over 4 years now and within this time, I have deployed a significant number of apps to Playstore and the Appstore.
 
-🌱 I developed the interest of building softwares in 2020, even though I didn't know where to start from back then.
+* 🌱 I developed the interest of building softwares in 2020, even though I didn't know where to start from back then.
 
-👯 Quote - 'I am magician in form of a mobile developer because I bring your ideas to life 🪄.'
+* 👯 Quote - 'I am magician in form of a mobile developer because I bring your ideas to life 🪄.'
 
 - 📫 How to reach me **oluwadare.emmanuel15@gmail.com**
 
