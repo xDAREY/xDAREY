@@ -3,11 +3,11 @@
 <h3 align="center">  🇳🇬 🇳🇬 </h3>
 
 
-I am Dare👋. I enjoy building Mobile apps. I started out as an Android developer and then transitioned into a Flutter developer.
+* I am Dare👋. I enjoy building Mobile apps. I started out as an Android developer and then transitioned into a Flutter developer.
 
-I am very comfortable with the Flutter framework and Dart SDK. I am also very proficient in Java and XML seeing as these were the languages I started out with.
+* I am very comfortable with the Flutter framework and Dart SDK. I am also very proficient in Java and XML seeing as these were the languages I started out with.
 
-I have been in the Mobile developing space for over 4 years now and within this time, I have deployed a significant number of apps to Playstore and the Appstore.
+* I have been in the Mobile developing space for over 4 years now and within this time, I have deployed a significant number of apps to Playstore and the Appstore.
 
 🌱 I developed the interest of building softwares in 2020, even though I didn't know where to start from back then.
 
