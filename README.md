@@ -3,7 +3,7 @@
 <h3 align="center">  🇳🇬 🇳🇬 </h3>
 
 
-* I am Dare👋. I enjoy building Mobile apps. I started out as an Android developer and then transitioned into a Flutter developer.
+* I am Dare👋. I enjoy building Mobile apps. I started out as a Native Android Developer and then transitioned into a Flutter Developer.
 
 * I am very comfortable with the Flutter framework and Dart SDK. I am also very proficient in Java and XML seeing as these were the languages I started out with.
 
